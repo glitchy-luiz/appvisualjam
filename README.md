@@ -9,6 +9,6 @@ Passo a passo de como instalar:
 
 4 - dentro da pasta clique duas vezes no arquivo "WindowsApp1.exe"
 
-5 - Caso apareça a mensagem para procurar o app na loja, aperta qualquer opção e espere(talvez demore um pouco), ai o jogo irá abrirdepois de carregar
+5 - Caso apareça a mensagem para procurar o app na loja, aperta qualquer opção e espere (talvez demore um pouco), ai o jogo irá abrir depois de carregar
 
 AVISO: Por enquanto, o arquivo WindowsApp1.exe só aparecerá caso o computador tenha os requisitos necessários (no caso, imagino que ter o visual studio 2019 baixado já seja tudo necessário), caso contrário aparecerá um aviso que você não tem estes requisitos
